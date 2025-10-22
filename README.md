@@ -82,9 +82,9 @@ This part covers setting up the core automation. We connect GitHub to AWS CodePi
 👉 Watch the full tutorial for Part 1 on YouTube:
 https://youtu.be/1k6s4shjpRc
 
-Part 2: Injecting AI for a Future-Proof Workflow
+### Part 2: Injecting AI for a Future-Proof Workflow
 
-This is where we make the pipeline intelligent using the latest AWS services.
+This is where we make the pipeline intelligent using the latest AI AWS services.
 
 👉 Watch the full tutorial for Part 2 on YouTube:
 https://youtu.be/1k6s4shjpRc
