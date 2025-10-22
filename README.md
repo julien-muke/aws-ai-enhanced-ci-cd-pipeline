@@ -82,21 +82,27 @@ This part covers setting up the core automation. We connect GitHub to AWS CodePi
 👉 Watch the full tutorial for Part 1 on YouTube:
 https://youtu.be/1k6s4shjpRc
 
-This project showcases a real-time AI-powered security pipeline using:
+Part 2: Injecting AI for a Future-Proof Workflow
 
-- Amazon CloudTrail (log API activity)
-- Amazon GuardDuty (AI-based threat detection)
-- Amazon EventBridge (trigger on GuardDuty findings)
-- AWS Lambda (automated response)
-- Amazon SNS (send real-time email/SMS alerts)
+This is where we make the pipeline intelligent using the latest AWS services.
 
+👉 Watch the full tutorial for Part 2 on YouTube:
+https://youtu.be/1k6s4shjpRc
 
-Simulated GuardDuty findings, trigger SNS alerts and a Lambda function that sends a clean, human-readable security alert.
+### Step-by-Step Summary:
 
-## 🔧 Prerequisites
+- Enable Amazon Inspector: In the AWS Console, enable Inspector and connect it to your GitHub repository to start automated code scanning.
 
-✅ An AWS account<br>
-✅ AWS CLI configured<br>
+- Add a Security Gate: Modify your existing AWS CodePipeline to add a "Manual approval" stage after the source stage. This forces a review of Inspector's findings.
 
+- Empower Your IDE with Amazon Q: Install the AWS Toolkit extension in your IDE (like VS Code) and sign in. Start using Amazon Q to get code suggestions, run on-demand security scans, and fix issues.
 
-## ➡️ Step 1 - Enable CloudTrail
+- Enable Proactive Monitoring: Set up Amazon DevOps Guru to monitor your AWS resources, specifically the S3 bucket where your application is hosted.
+
+## ✅ Conclusion
+
+By completing this project, you'll have more than just a deployment pipeline. You'll have a modern DevOps workflow that embodies the principles of DevSecOps and AIOps. This setup ensures that your application is not only delivered quickly but is also secure, reliable, and high-quality.
+
+Feel free to clone this repository, experiment with it, and adapt it to your own projects.
+
+If you found this project helpful, please give it a ⭐ star on GitHub and subscribe to the YouTube channel for more cutting-edge cloud tutorials!
