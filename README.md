@@ -111,8 +111,6 @@ If you found this project helpful, please give it a ⭐ star on GitHub and subsc
 
 Follow my tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<img width="1117" height="327" alt="Image" src="https://github.com/user-attachments/assets/a864c284-5647-4f4d-af70-386d7e0efadc" />
-
 <a href="http://www.youtube.com/@julienmuke/videos" target="_blank">
       <img src="https://github.com/user-attachments/assets/a864c284-5647-4f4d-af70-386d7e0efadc" alt="Project Banner">
 </a>
