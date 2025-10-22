@@ -1,14 +1,14 @@
-# ![aws](https://github.com/julien-muke/Search-Engine-Website-using-AWS/assets/110755734/01cd6124-8014-4baa-a5fe-bd227844d263) Build a Real-Time Threat Detection on AWS with AI | GuardDuty, CloudTrail, Lambda & SNS 🛡️
+# ![aws](https://github.com/julien-muke/Search-Engine-Website-using-AWS/assets/110755734/01cd6124-8014-4baa-a5fe-bd227844d263) AI-Powered CI/CD Pipeline for React Apps on AWS
 
 <div align="center">
 
   <br />
     <a href="https://youtu.be/if5gMxb2LSM" target="_blank">
-      <img src="https://github.com/user-attachments/assets/f2592643-7018-4932-8738-495e94505c86" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/22475eca-5aa5-4961-b633-8cb1dda7d303" alt="Project Banner">
     </a>
   <br />
 
-<h3 align="center">Build a Real-time AI-powered threat detection and response system on AWS using GuardDuty, SNS, and Lambda. </h3>
+<h3 align="center">Build an AI-Powered CI/CD Pipeline on AWS using Amazon Inspector, Amazon Q and Amazon DevOps Guru.</h3>
 
    <div align="center">
      Build this hands-on demo step by step with my detailed tutorial on <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a> YouTube. Feel free to subscribe 🔔!
