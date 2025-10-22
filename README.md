@@ -101,11 +101,9 @@ https://youtu.be/1k6s4shjpRc
 
 ## ✅ Conclusion
 
-By completing this project, you'll have more than just a deployment pipeline. You'll have a modern DevOps workflow that embodies the principles of DevSecOps and AIOps. This setup ensures that your application is not only delivered quickly but is also secure, reliable, and high-quality.
+By completing this project, you'll have more than just a deployment pipeline. You'll have a modern DevOps workflow that demonstrate the principles of DevSecOps and AIOps. This setup ensures that your application is not only delivered quickly but is also secure, reliable, and high-quality.
 
-Feel free to clone this repository, experiment with it, and adapt it to your own projects.
-
-If you found this project helpful, please give it a ⭐ star on GitHub and subscribe to the YouTube channel for more cutting-edge cloud tutorials!
+If you found this project helpful, please give it a ⭐ star on GitHub.
 
 ## 🚀 More
 
