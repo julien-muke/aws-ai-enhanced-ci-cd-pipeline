@@ -3,7 +3,7 @@
 <div align="center">
 
   <br />
-    <a href="https://youtu.be/if5gMxb2LSM" target="_blank">
+    <a href="https://youtu.be/0A46RQiLCBE" target="_blank">
       <img src="https://github.com/user-attachments/assets/c07f2ed3-a000-459c-ab2a-a58565470c9a" alt="Project Banner">
     </a>
   <br />
@@ -23,7 +23,7 @@ channel, <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>
 If you prefer visual learning, this is the perfect resource for you. Follow my tutorial to learn how to build projects
 like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/if5gMxb2LSM" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/0A46RQiLCBE" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -87,7 +87,7 @@ https://youtu.be/1k6s4shjpRc
 This is where we make the pipeline intelligent using the latest AI AWS services.
 
 👉 Watch the full tutorial for Part 2 on YouTube:
-https://youtu.be/1k6s4shjpRc
+https://youtu.be/0A46RQiLCBE
 
 ### Step-by-Step Summary:
 
